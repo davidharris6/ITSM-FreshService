@@ -7,7 +7,7 @@
 
 A hands-on IT Service Management (ITSM) lab built on the Freshservice. It walks through the full ITIL process set an IT support team uses every day: **incident management, service requests (catalogue), change management with CAB approval, SLA/priority configuration, and reporting.**
 
-## 🎬 Watch Me Build This Lab!
+## 🎬 Watch Me Build This Lab! https://www.loom.com/share/525db2c30f3e4ab3831a21eb8010a4db
 
 
 ## Table of Contents
